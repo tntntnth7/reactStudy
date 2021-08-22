@@ -11,7 +11,7 @@
 	<groupId>com.study</groupId>
 	<artifactId>react</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>react</name>
 	<description>Spring boot and React Study</description>
 	<properties>

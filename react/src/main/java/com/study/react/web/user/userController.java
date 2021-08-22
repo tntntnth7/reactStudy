@@ -10,5 +10,4 @@ public class userController {
 	public String user() {
 		return "heojun";
 	}
-	
 }
