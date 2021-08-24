@@ -8,6 +8,11 @@ public class userController {
 
 	@GetMapping("/")
 	public String user() {
-		return "heojun & yerim react&springboot study project start";
+		return "project start";
+	}
+	
+	@GetMapping("/user")
+	public String username() {
+		return "heojun";
 	}
 }
